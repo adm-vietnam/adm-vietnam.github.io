@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Program
+background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 description: Program description.
 permalink: /Program/
 ---
