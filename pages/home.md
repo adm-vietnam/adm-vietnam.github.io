@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Research Experiences for Vietnamese Undergraduates
+title: Application Driven Mathematics REU
 description: Add description here
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
-
+## Research Experiences for Vietnamese Undergraduates
 this subsection contains a description of the program.
 
 ## Organizers
