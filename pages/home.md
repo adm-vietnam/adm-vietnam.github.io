@@ -9,9 +9,9 @@ permalink: /
 this subsection contains a description of the program.
 
 ## Organizers
-<div id="gridid" class="col-sm-12">
+<div class="row cards mt-4">
 {% for member in site.data.Organizers %}
-  <div class="d-flex team-member">
+  <div class="d-flex team-member col-md-6">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
