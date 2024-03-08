@@ -72,4 +72,6 @@ this subsection contains a description of the program.
     </div>
   </div>
 {% endfor %}
+
 ## Contacts
+- this contains email address(es)
