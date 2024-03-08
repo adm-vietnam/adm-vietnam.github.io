@@ -84,4 +84,9 @@ permalink: /Program/
   <p class="col-md-6">{{ participants.info }}</p>
   {% endfor %}
 </div>
+
 ## Boot camp
+
+- 1
+- 2
+- 3
