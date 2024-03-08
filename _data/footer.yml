@@ -5,10 +5,10 @@
 columns:
   - description:
     links:
-    - text: Email1: abc@abc.com
+    - text: Email1:abc@abc.com
       href: abc@abc.com
       # new_window: true
-    - text: Email2: abc@abc.com
+    - text: Email2:abc@abc.com
       href: abc@abc.com
       # new_window: true
 
