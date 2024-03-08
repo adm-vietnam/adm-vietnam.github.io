@@ -3,12 +3,6 @@ layout: default
 description: Program page.
 ---
 
-{% if page.Program and site.data[page.Program] %}
-  {% assign Mentors = site.data[page.Program] %}
-{% elsif site.data.team %}
-  {% assign Mentors = site.data.Mentors %}
-{% endif %}
-
 {{ content }}
 
 {% for member in site.data.Mentors %}
@@ -21,8 +15,8 @@ description: Program page.
     <div>
       <h5 id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
-        {% if member.role %}
-          <small class="text-muted">| {{ member.role }}</small>
+        {% if member.affiliation %}
+          <small class="text-muted">| {{ member.affiliation }}</small>
         {% endif %}
       </h5>
 
