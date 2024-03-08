@@ -7,10 +7,10 @@ columns:
     links:
     - text: Email1: abc@abc.com
       href: mailto:abc@abc.com
-      new_window: true
+      # new_window: true
     - text: Email2: abc@abc.com
       href: mailto:abc@abc.com
-      new_window: true
+      # new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is made with ❤ for open source.
