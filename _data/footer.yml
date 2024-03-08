@@ -5,11 +5,11 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Email1: abc@abc.com
+      href: mailto:abc@abc.com
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: Email2: abc@abc.com
+      href: mailto:abc@abc.com
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
