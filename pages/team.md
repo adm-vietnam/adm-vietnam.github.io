@@ -5,7 +5,7 @@ description: Program description.
 permalink: /Program/
 ---
 
-On this page you can list team members by defining them in [`_data/team.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/main/_data/team.yml).
+## Mentors
 {% for member in site.data.Mentors %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
@@ -69,3 +69,5 @@ On this page you can list team members by defining them in [`_data/team.yml`](ht
     </div>
   </div>
 {% endfor %}
+
+## p
