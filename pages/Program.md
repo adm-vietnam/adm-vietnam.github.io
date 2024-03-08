@@ -4,7 +4,10 @@ title: Program
 description: Program description.
 permalink: /Program/
 ---
-
+## Projects
+- 1
+- 2
+- 3
 ## Mentors
 {% for member in site.data.Mentors %}
   <div class="d-flex team-member">
@@ -70,4 +73,6 @@ permalink: /Program/
   </div>
 {% endfor %}
 
-## p
+## Participants
+
+## Boot camp
