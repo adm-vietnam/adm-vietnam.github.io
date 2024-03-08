@@ -1,17 +1,17 @@
 ---
 layout: default
-description: Template for team page.
+description: Program page.
 ---
 
-{% if page.team and site.data[page.team] %}
-  {% assign team = site.data[page.team] %}
+{% if page.Program and site.data[page.Program] %}
+  {% assign Mentors = site.data[page.Program] %}
 {% elsif site.data.team %}
-  {% assign team = site.data.team %}
+  {% assign team = site.data.Mentors %}
 {% endif %}
 
 {{ content }}
 
-{% for member in team %}
+{% for member in Mentors %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
