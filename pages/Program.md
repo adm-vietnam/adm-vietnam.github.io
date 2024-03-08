@@ -79,5 +79,9 @@ permalink: /Program/
 </div>
 
 ## Participants
-
+<div class="row cards mt-4">
+  {% for participants in site.data.participants %}
+  <p class="col-md-6">{{ participants.info }}</p>
+  {% endfor %}
+</div>
 ## Boot camp
