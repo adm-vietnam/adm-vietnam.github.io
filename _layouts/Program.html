@@ -6,7 +6,7 @@ description: Program page.
 {% if page.Program and site.data[page.Program] %}
   {% assign Mentors = site.data[page.Program] %}
 {% elsif site.data.team %}
-  {% assign team = site.data.Mentors %}
+  {% assign Mentors = site.data.Mentors %}
 {% endif %}
 
 {{ content }}
