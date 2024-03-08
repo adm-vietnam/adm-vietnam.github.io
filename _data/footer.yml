@@ -5,11 +5,11 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Email: abc@abc.com
+      href: abc@abc.com
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: Email: abc@abc.com
+      href: abc@abc.com
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
@@ -22,4 +22,3 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
   Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish)
