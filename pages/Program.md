@@ -9,8 +9,9 @@ permalink: /Program/
 - 2
 - 3
 ## Mentors
+<div class="row cards mt-4">
 {% for member in site.data.Mentors %}
-  <div class="d-flex team-member">
+  <div class="d-flex team-member col-md-6">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
@@ -72,6 +73,7 @@ permalink: /Program/
     </div>
   </div>
 {% endfor %}
+</div>
 
 ## Participants
 
