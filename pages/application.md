@@ -1,16 +1,16 @@
 ---
 title: Application
-description: How to start your website and use Petridish.
+description: Application.
 background:
   img: https://images.unsplash.com/photo-1609456878306-592aa2bc0eed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGJpcmRzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&crop=top&w=1200&h=600&q=80
-  by: William Foley
-  href: https://unsplash.com/photos/EysCLgycVgc
+  # by: William Foley
+  # href: https://unsplash.com/photos/EysCLgycVgc
 permalink: /application/
 toc: true
 # tags: [tags are reserved for posts so this one will not show up]
 ---
 
-# Postdoctoral Fellowship
+## Postdoctoral Fellowship
 
 The School of Mathematical Sciences invites applications for Postdoctoral Positions to work closely with Professors Jie Ma and Tuan Tran. We are hiring up to 2 postdocs (within 5 years after PhD): 2 + possible 1-year extension.
 
