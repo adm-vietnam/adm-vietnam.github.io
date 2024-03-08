@@ -14,8 +14,6 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
