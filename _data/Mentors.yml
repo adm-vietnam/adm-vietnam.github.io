@@ -1,0 +1,12 @@
+- name: Example
+  role: Delivery boy # Will appear next to name
+  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  description: > # Can be Markdown
+    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+  orcid: 0000-0000-0000-0000
+  researchgate: researchgate_username
+  googlescholar: googlescholar_username
+  twitter: twitter_username
+  mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: name@example.com
