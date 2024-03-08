@@ -1,7 +1,9 @@
 ---
 title: Welcome to Jekyll
+background:
+  img: "https://images.unsplash.com/photo-1558441440-d4111d18d48f?ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
 date: 2019-05-18 17:27:15 +0200
-tags: [Shared tag, 👩‍🔬 Emoji tag, "Special /?{:å characters", " Whitespace before and after "]
+tags: [Shared tag, 👩‍🔬 Emoji tag]
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
