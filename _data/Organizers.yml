@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
+- name: Example
   role: Delivery boy # Will appear next to name
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
   description: > # Can be Markdown
