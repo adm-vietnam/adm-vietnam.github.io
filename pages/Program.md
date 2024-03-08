@@ -9,7 +9,7 @@ permalink: /Program/
 - 1
 - 2
 - 3
-- 
+
 ## Mentors
 
 <div class="row cards mt-4">
