@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: News
-description: News & blog posts
+background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+description: News
 permalink: /news/
 ---
 
