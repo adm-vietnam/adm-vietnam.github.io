@@ -10,6 +10,7 @@ this subsection contains a description of the program.
 
 ## Organizers
 {% for member in site.data.Organizers %}
+<div id="gridid" class="col-sm-12">
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
@@ -70,6 +71,7 @@ this subsection contains a description of the program.
         {% endif %}
       </ul>
     </div>
+  </div>
   </div>
 {% endfor %}
 
