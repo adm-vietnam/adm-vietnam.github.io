@@ -9,8 +9,8 @@ permalink: /
 this subsection contains a description of the program.
 
 ## Organizers
-{% for member in site.data.Organizers %}
 <div id="gridid" class="col-sm-12">
+{% for member in site.data.Organizers %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
@@ -72,8 +72,8 @@ this subsection contains a description of the program.
       </ul>
     </div>
   </div>
-  </div>
 {% endfor %}
+</div>
 
 ## Contacts
 - this contains email address(es)
