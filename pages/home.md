@@ -7,12 +7,14 @@ permalink: /
 ---
 ## Research Experiences for Students
 
+<p>
 The 2024 ADM-REU aims to provide research experience to undergraduate and master's students, and serve as a
 stepping stone for participating students to pursue PhD degrees at top universities. Students will spend
 some of the time learning the necessary background while doing research. Each student will work in a
 team of up to five, under the supervision of renowned experts, on applied or theoretical projects in High
 Dimensional Probability, Statistics, Data Science, Machine Learning, or Combinatorics. The team works
 towards solving a meaningful research problem, and writing a paper.
+</p>  
 The format of the program is divided into two parts:
 1. Boot camp: This part will be held in person, from July 1st to 30th 2024, in Hanoi. For the first
 three weeks, students will attend block courses (consisting of lectures and exercises). The block
