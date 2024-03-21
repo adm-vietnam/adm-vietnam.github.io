@@ -6,6 +6,10 @@
 #   href: /about/
 - text: Program
   href: /Program/
+
+- text: Application
+  href: /application/
+
 - text: News
   href: /news/
 # - text: Documentation
@@ -19,6 +23,5 @@
 #   - text: "Dropdown header" # Title for block of menu items
 #   - text: Page with custom navigation
 #     href: /docs/custom-navigation/
-- text: Application
-  href: /application/
+  
 #   new_window: true
