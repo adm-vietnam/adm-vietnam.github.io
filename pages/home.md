@@ -34,10 +34,11 @@ After the program, each student will:
     get connected as needed to students with more experience.</li>
 </ul>
 
-<b>Funding</b>
-The program will provide lodging, travel support to and from Hanoi, as well as a stipend for all students.
-Eligibility
-This program is open to students at Vietnamese universities. Participants must be able to spend the full
+<b>Funding</b> <br>
+The program will provide lodging, travel support to and from Hanoi, as well as a stipend for all students.<br>
+
+<b>Eligibility<b> <br>
+This program is open to undergraduate and master's students at Vietnamese universities. Participants must be able to spend the full
 one month in residence.
 
 ## Organizers
