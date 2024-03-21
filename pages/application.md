@@ -11,12 +11,12 @@ toc: true
 ---
 
 ## Application Material Required:
-- Cover letter
+- Motivation letter
 - Curriculum vitae
-- Research statement (max. 5 pages)
-- Publication list
-- At least 2 recommendation letters (3 letters are recommended)
+- Undergraduate transcript
+- Master's transcript (if applicable)
 
-**We only accept online applications through mathjobs.org: https://www.mathjobs.org/jobs/list/21349.**
+The documents should be either in English or Vietnamese.
+**To apply, please fill out the form.**
 
 If you have questions concerning this position, please contact Jie Ma (jiema@ustc.edu.cn) or Tuan Tran (trantuan@ustc.edu.cn).
