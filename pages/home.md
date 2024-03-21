@@ -79,12 +79,7 @@ one month in residence.
           </li>
         {% endif %}
 
-        {% if member.twitter %}
-          <li class="list-inline-item">
-            <a href="https://twitter.com/{{ member.twitter }}"><i class="fab fa-twitter"></i></a>
-          </li>
-        {% endif %}
-
+        
         {% if member.mastodon %}
           <li class="list-inline-item">
             <a href="{{ member.mastodon }}"><i class="fab fa-mastodon"></i></a>
