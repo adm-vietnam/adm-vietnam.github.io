@@ -66,4 +66,4 @@ one month in residence.
 </div>
 
 ## Contacts
-- this contains email address(es)
+- If you have any questions, don't hesitate to contact Tuan Tran (trantuan@ustc.edu.cn).
