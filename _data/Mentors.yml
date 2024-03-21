@@ -14,7 +14,7 @@
 - name: Tan Minh Nguyen
   affiliation: National University of Singapore
   homepage: https://tanmnguyen89.github.io/
-  image: assets/theme/images/Tan_Nguyen.jpg # Can be external link
+  image: assets/theme/images/Tan_Nguyen.jpeg # Can be external link
   description: Machine Learning, Data Science, Statistics
 
 - name: Tuan Tran
