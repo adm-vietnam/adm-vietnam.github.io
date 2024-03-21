@@ -51,12 +51,12 @@ one month in residence.
       {% endif %}
     </div>
     <div>
-      <h5 id="{{ member.name | strip | url_encode }}">
+      <p id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
         {% if member.affiliation %}
           <p><small class="text-muted">{{ member.affiliation }}</small></p>
         {% endif %}
-      </h5>
+      </p>
 
       {{ member.description | markdownify }}    
 
