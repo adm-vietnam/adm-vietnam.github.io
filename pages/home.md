@@ -5,7 +5,7 @@ description: Research Experiences for Students
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink:
 ---
-## Description
+## Description 
 
 <p>
 The 2024 ADM-REU aims to provide research experience to undergraduate and master's students, and serve as a
