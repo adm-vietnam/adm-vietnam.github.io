@@ -13,14 +13,14 @@
   github: github_username
   email: name@example.com
 
-- name: Example2
-  affiliation: USTC
+- name: Tuan Tran
+  affiliation: USTC, China
   image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
   description: >
     Professor. 
 
-- name: Example3
-  affiliation: USTC
+- name: Van Vu
+  affiliation: Yale, USA
   image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
   description: >
     Professor.
