@@ -6,10 +6,7 @@ description:
 permalink: /Program/
 ---
 
-## Projects
-- 1
-- 2
-- 3
+## Projects (to be updated)
 
 ## Mentors
 
