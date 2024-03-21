@@ -8,7 +8,7 @@
 - name: Nhat Ho
   affiliation: University of Texas at Austin
   homepage: https://nhatptnk8912.github.io/
-  image: https://drive.google.com/file/d/1oK8MUBYO6hiRKOR805iGy1axprkItl-5/view?usp=sharing # Can be external link
+  image: assets/theme/images/Nhat_Ho.jpg # Can be external link
   description: Machine Learning, Data Science, Statistics
 
 - name: Tan Minh Nguyen
