@@ -5,7 +5,7 @@ description:
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
-## Research Experiences for Vietnamese Students
+## Research Experiences for Students
 this subsection contains a description of the program.
 
 ## Organizers
