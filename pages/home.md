@@ -46,10 +46,10 @@ one month in residence.
 {% for member in site.data.Organizers %}
   <div class="d-flex team-member col-md-6">
     <div class="flex-shrink-0 me-3">
-      {% if member.image %}
+      <div style="position: relative;display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;align-items: center;">
+        {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
-      <div style="position: relative;display: grid;justify-content: center;">
         <p id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
         {% if member.affiliation %}
