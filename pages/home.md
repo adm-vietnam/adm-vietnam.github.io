@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Application Driven Mathematics REU
-description:
+title: Application Driven Mathematics
+description: Research Experiences for Students
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
@@ -16,12 +16,18 @@ Dimensional Probability, Statistics, Data Science, Machine Learning, or Combinat
 towards solving a meaningful research problem, and writing a paper.
 </p>  
 The format of the program is divided into two parts:
-1. Boot camp: This part will be held in person, from July 1st to 30th 2024, in Hanoi. For the first
+<ol>
+<li>
+Boot camp: This part will be held in person, from July 1st to 30th 2024, in Hanoi. For the first
 three weeks, students will attend block courses (consisting of lectures and exercises). The block
 courses offer an avenue for standardizing the backgrounds of students, and should give a deeper
 insight into special fields of research. For the last week of July, students will do research.
-2. Dynamic collaboration: we expect that the teams will continue their projects during the
+</li>
+<li>
+Dynamic collaboration: we expect that the teams will continue their projects during the
 following academic semester.
+</li>
+</ol>
 After the program, each student will:
  continue receiving advice from their mentor for graduate school applications;
  get connected as needed to students with more experience.
