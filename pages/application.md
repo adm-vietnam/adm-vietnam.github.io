@@ -19,4 +19,4 @@ toc: true
 The documents should be either in English or Vietnamese.
 **To apply, please fill out the form.**
 
-If you have questions concerning this position, please contact Jie Ma (jiema@ustc.edu.cn) or Tuan Tran (trantuan@ustc.edu.cn).
+If you have questions, please contact Tuan Tran (trantuan@ustc.edu.cn).
