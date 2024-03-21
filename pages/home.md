@@ -61,12 +61,7 @@ one month in residence.
       {{ member.description | markdownify }}    
 
 
-        {% if member.email %}
-          <li class="list-inline-item">
-            <a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
-          </li>
-        {% endif %}
-      </ul>
+        
     </div>
   </div>
 {% endfor %}
