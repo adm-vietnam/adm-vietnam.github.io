@@ -1,7 +1,7 @@
 - name: Hoi Nguyen
   affiliation: Ohio State University
   homepage: https://people.math.osu.edu/nguyen.1261/
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/Hoi_Nguyen.jpg # Can be external link
   description: > # Can be Markdown
     Combinatorics, Probability, Random Matrices
 
@@ -14,7 +14,7 @@
 - name: Tan Minh Nguyen
   affiliation: National University of Singapore
   homepage: https://tanmnguyen89.github.io/
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/Tan_Nguyen.jpg # Can be external link
   description: Machine Learning, Data Science, Statistics
 
 - name: Tuan Tran
@@ -26,5 +26,5 @@
 - name: Van Vu
   affiliation: Yale University
   homepage: https://math.yale.edu/people/van-vu
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/Van_Vu.jpg # Can be external link
   description: Additive number theory, Combinatorics, Probability, Random Matrices
