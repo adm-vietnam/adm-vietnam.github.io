@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Application Driven Mathematics REU
-description: Add description here
+description:
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
