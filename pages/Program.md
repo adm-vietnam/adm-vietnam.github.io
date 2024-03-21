@@ -16,34 +16,20 @@ permalink: /Program/
 <div class="row cards mt-4">
 {% for member in site.data.Mentors %}
   <div class="d-flex team-member col-md-6">
-    <div class="flex-shrink-0 me-3">
-      {% if member.image %}
+    <div class="flex-shrink-0 me-3" style="width: 300px;">
+      <div style="position: relative;display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;align-items: center;">
+        {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
-    </div>
-    <div>
-      <h5 id="{{ member.name | strip | url_encode }}">
-        {{ member.name }}
+        <p id="{{ member.name | strip | url_encode }}">
+        <a href="{{ member.homepage }}">{{ member.name }}</a>
         {% if member.affiliation %}
-          <small class="text-muted">| {{ member.affiliation }}</small>
+          <small class="text-muted">({{ member.affiliation }})</small>
         {% endif %}
-      </h5>
+      </p>
 
-      {{ member.description | markdownify }}
-
-      <ul class="list-inline">
-        {% if member.orcid %}
-          <li class="list-inline-item">
-            <a href="https://orcid.org/{{ member.orcid }}"><i class="ai ai-orcid"></i></a>
-          </li>
-        {% endif %}
-
-        {% if member.email %}
-          <li class="list-inline-item">
-            <a href="mailto:{{ member.email }}"><i class="far fa-envelope"></i></a>
-          </li>
-        {% endif %}
-      </ul>
+      {{ member.description | markdownify }}  
+      </div>
     </div>
   </div>
 {% endfor %}
