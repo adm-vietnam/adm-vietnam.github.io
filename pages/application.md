@@ -16,7 +16,7 @@ toc: true
 - Undergraduate transcript
 - Master's transcript (if applicable)
 
-The documents should be either in English or Vietnamese.
-**To apply, please fill out the form.**
+The documents should be either in English or Vietnamese. <br>
+To apply, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScMvQ1vhoTXmghGyszDjN7YAzwAjr8en6NTjskOlVDDbfPPwQ/viewform?usp=sf_link">this form.</a>
 
 If you have questions, please contact Tuan Tran (trantuan@ustc.edu.cn).
