@@ -45,7 +45,7 @@ one month in residence.
 <div class="row cards mt-4">
 {% for member in site.data.Organizers %}
   <div class="d-flex team-member col-md-6">
-    <div class="flex-shrink-0 me-3">
+    <div class="flex-shrink-0 me-3" style="width: 300px;">
       <div style="position: relative;display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;align-items: center;">
         {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
