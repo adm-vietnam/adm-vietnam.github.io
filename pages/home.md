@@ -49,20 +49,18 @@ one month in residence.
       {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
-    </div>
-    <div>
-      <p id="{{ member.name | strip | url_encode }}">
+      <div style="position: relative;display: grid;justify-content: center;">
+        <p id="{{ member.name | strip | url_encode }}">
         {{ member.name }}
         {% if member.affiliation %}
-          <p><small class="text-muted">{{ member.affiliation }}</small></p>
+          <small class="text-muted">({{ member.affiliation }})</small>
         {% endif %}
       </p>
 
-      {{ member.description | markdownify }}    
-
-
-        
+      {{ member.description | markdownify }}  
+      </div>
     </div>
+    
   </div>
 {% endfor %}
 </div>
