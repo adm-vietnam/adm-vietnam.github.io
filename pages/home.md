@@ -51,7 +51,7 @@ one month in residence.
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
         <p id="{{ member.name | strip | url_encode }}">
-        {{ member.name }}
+        <a href="{{ member.homepage }}">{{ member.name }}</a>
         {% if member.affiliation %}
           <small class="text-muted">({{ member.affiliation }})</small>
         {% endif %}
