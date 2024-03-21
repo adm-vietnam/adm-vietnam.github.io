@@ -1,7 +1,8 @@
 - name: Hoi Nguyen
   affiliation: OSU, USA
   image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
-  description: > dsd# Can be Markdown
+  description: > # Can be Markdown
+    dsds
   email: name@example.com
 
 - name: Nhat Ho
