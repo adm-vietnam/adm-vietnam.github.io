@@ -52,9 +52,9 @@ one month in residence.
     </div>
     <div>
       <h5 id="{{ member.name | strip | url_encode }}">
-        {{ member.name }}</br>
+        {{ member.name }}
         {% if member.affiliation %}
-          <small class="text-muted">| {{ member.affiliation }}</small>
+          <p><small class="text-muted">{{ member.affiliation }}</small></p>
         {% endif %}
       </h5>
 
