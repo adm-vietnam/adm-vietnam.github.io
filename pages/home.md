@@ -40,6 +40,13 @@ The program will provide lodging, travel support to and from Hanoi, as well as a
 <b>Eligibility</b> <br>
 This program is open to undergraduate and master's students at Vietnamese universities. Participants must be able to spend the full one month in residence.
 
+<b>Important dates</b> <br>
+Application period: April 1 to May 15 <br>
+Interview: May 23 to June 7 <br>
+Admissions decision: by June 15 <br>
+Boot camp: 1-30 July, on-site <br>
+Dynamic collaboration: August 1 to December 30
+
 ## Organizers
 <div class="row cards mt-4">
 {% for member in site.data.Organizers %}
