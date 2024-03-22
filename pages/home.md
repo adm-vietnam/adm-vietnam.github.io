@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Application Driven Mathematics
-description: Research Experiences for Students
+title: Research Experiences for Students
+description: Application Driven Mathematics
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
@@ -72,4 +72,4 @@ Dynamic collaboration: August 1 to December 30
 </div>
 
 ## Contacts
-- If you have any questions, don't hesitate to contact Tuan Tran (<a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a>).
+- If you have any questions, send an email to <a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a>.
