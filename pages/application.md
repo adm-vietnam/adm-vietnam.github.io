@@ -10,8 +10,8 @@ toc: false
 # tags: [tags are reserved for posts so this one will not show up]
 ---
 
-## Application Material Required:
-- Motivation letter
+## Application Material Required
+- Statement of purpose
 - Curriculum vitae
 - Undergraduate transcript
 - Master's transcript (if applicable)
