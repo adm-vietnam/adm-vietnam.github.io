@@ -65,4 +65,4 @@ This program is open to undergraduate and master's students at Vietnamese univer
 </div>
 
 ## Contacts
-- If you have any questions, don't hesitate to contact Tuan Tran (trantuan@ustc.edu.cn).
+- If you have any questions, don't hesitate to contact Tuan Tran (<a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a>).
