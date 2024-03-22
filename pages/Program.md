@@ -25,7 +25,7 @@ permalink: /Program/
         {% endif %}
       </p>
 
-      <p style="text-align: center;">{{ member.description | markdownify }}</p>
+      <p style="text-align: center;">{{ member.description }}</p>
       </div>
     </div>
   </div>
