@@ -43,7 +43,7 @@ This program is open to undergraduate and master's students at Vietnamese univer
 ## Organizers
 <div class="row cards mt-4">
 {% for member in site.data.Organizers %}
-  <div class="d-flex team-member col-md-6">
+  <div class="d-flex team-member col-md-6" style="justify-content: center;">
     <div class="flex-shrink-0 me-3" style="width: 350px;">
       <div style="position: relative;display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;align-items: center;">
         {% if member.image %}
