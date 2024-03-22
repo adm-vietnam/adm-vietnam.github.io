@@ -12,7 +12,7 @@ permalink: /Program/
 
 <div class="row cards mt-4">
 {% for member in site.data.Mentors %}
-  <div class="d-flex team-member col-md-6">
+  <div class="d-flex team-member col-md-6" style="justify-content: center;">
     <div class="flex-shrink-0 me-3" style="width: 300px;">
       <div style="position: relative;display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;align-items: center;">
         {% if member.image %}
