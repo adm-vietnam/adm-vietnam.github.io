@@ -44,7 +44,7 @@ This program is open to undergraduate and master's students at Vietnamese univer
 Application period: April 1 to May 15 <br>
 Interview: May 23 to June 7 <br>
 Admissions decision: by June 15 <br>
-Boot camp: 1-30 July, on-site <br>
+Boot camp: July 1-30, on-site <br>
 Dynamic collaboration: August 1 to December 30
 
 ## Organizers
