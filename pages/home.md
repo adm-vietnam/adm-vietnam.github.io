@@ -52,7 +52,7 @@ This program is open to undergraduate and master's students at Vietnamese univer
         <p id="{{ member.name | strip | url_encode }}" style="text-align: center;">
         <a href="{{ member.homepage }}">{{ member.name }}</a>
         {% if member.affiliation %}
-          <br><small class="text-muted">({{ member.affiliation }})</small>
+          <br><small class="text-muted">{{ member.affiliation }}</small>
         {% endif %}
       </p>
 
