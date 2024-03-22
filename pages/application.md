@@ -6,7 +6,7 @@ background:
   # by: William Foley
   # href: https://unsplash.com/photos/EysCLgycVgc
 permalink: /application/
-toc: true
+toc: false
 # tags: [tags are reserved for posts so this one will not show up]
 ---
 
