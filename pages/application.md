@@ -17,4 +17,4 @@ toc: true
 - Master's transcript (if applicable)
 
 The documents should be either in English or Vietnamese. <br>
-To apply, please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScMvQ1vhoTXmghGyszDjN7YAzwAjr8en6NTjskOlVDDbfPPwQ/viewform?usp=sf_link">this form </a> by 15th of May 2024.
+To apply, fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScMvQ1vhoTXmghGyszDjN7YAzwAjr8en6NTjskOlVDDbfPPwQ/viewform?usp=sf_link">this form </a> by 15th of May 2024.
