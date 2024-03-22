@@ -44,12 +44,12 @@ This program is open to undergraduate and master's students at Vietnamese univer
 <div class="row cards mt-4">
 {% for member in site.data.Organizers %}
   <div class="d-flex team-member col-md-6">
-    <div class="flex-shrink-0 me-3" style="width: 300px;">
+    <div class="flex-shrink-0 me-3" style="width: 350px;">
       <div style="position: relative;display: flex;justify-content: center;flex-wrap: wrap;flex-direction: column;align-items: center;">
         {% if member.image %}
         <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
       {% endif %}
-        <p id="{{ member.name | strip | url_encode }}">
+        <p id="{{ member.name | strip | url_encode }}" style="text-align: center;">
         <a href="{{ member.homepage }}">{{ member.name }}</a>
         {% if member.affiliation %}
           <br><small class="text-muted">({{ member.affiliation }})</small>
