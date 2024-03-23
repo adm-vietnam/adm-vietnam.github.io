@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program
+title:
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 description:
 permalink: /Program/
