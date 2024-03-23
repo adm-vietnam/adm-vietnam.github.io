@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Application Driven Mathematics
-description: Research Experiences for Students
+title: Research Experiences for Students
+description: 
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
