@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: REU-Vietnam                        # Title in top navigation bar (navbar) and <head>
+title: Application Driven Mathematics REU                        # Title in top navigation bar (navbar) and <head>
 author: REU-Vietnam                    # Used for copyright statement in footer
 baseurl: ""                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
