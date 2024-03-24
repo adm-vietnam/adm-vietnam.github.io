@@ -5,7 +5,7 @@ description:
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
-## Description 
+# Description 
 
 <p>
 The 2024 Application Driven Mathematics aims to provide research experience to undergraduate and master's students, and serve as a
@@ -72,4 +72,4 @@ Dynamic collaboration: August 1 to December 30
 </div>
 
 ## Contacts
-- If you have any questions, send an email to <a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a>.
+Email to <a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a>.
