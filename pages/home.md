@@ -5,8 +5,8 @@ description:
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
-# Description 
 
+<b>Description</b> <br>
 <p>
 The 2024 Application Driven Mathematics aims to provide research experience to undergraduate and master's students, and serve as a
 stepping stone for participating students to pursue PhD degrees at top universities. Students will spend
@@ -47,7 +47,15 @@ Admissions decision: by June 15 <br>
 Boot camp: July 1-30, on-site <br>
 Dynamic collaboration: August 1 to December 30
 
-## Organizers
+<b>Sponsors</b> <br>
+<ul>
+  <li>
+    Vingroup Innovation Foundation</li>
+  <li>
+    VinBigData</li>
+</ul>
+
+<b>Organizers</b> <br>
 <div class="row cards mt-4">
 {% for member in site.data.Organizers %}
   <div class="d-flex team-member col-md-6" style="justify-content: center;">
@@ -71,5 +79,5 @@ Dynamic collaboration: August 1 to December 30
 {% endfor %}
 </div>
 
-## Contacts
+<b>Contact</b> <br>
 Email to <a href="mailto:trantuan@ustc.edu.cn">trantuan@ustc.edu.cn</a>.
