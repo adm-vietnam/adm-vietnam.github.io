@@ -52,7 +52,7 @@ Dynamic collaboration: August 1 to December 30
   <li>
     Vingroup Innovation Foundation</li>
   <li>
-    VinBigData</li>
+    ata</li>
 </ul>
 
 <b>Organizers</b> <br>
