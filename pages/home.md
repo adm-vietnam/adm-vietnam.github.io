@@ -8,7 +8,7 @@ permalink: /
 ## Description 
 
 <p>
-The 2024 Application Driven MathematicsMathematics aims to provide research experience to undergraduate and master's students, and serve as a
+The 2024 Application Driven Mathematics aims to provide research experience to undergraduate and master's students, and serve as a
 stepping stone for participating students to pursue PhD degrees at top universities. Students will spend
 some of the time learning the necessary background while doing research. Each student will work in a
 team of up to five, under the supervision of renowned experts, on applied or theoretical projects in High
