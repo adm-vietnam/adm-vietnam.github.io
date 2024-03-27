@@ -8,12 +8,7 @@ permalink: /
 
 <b>Description</b> <br>
 <p>
-The 2024 Application Driven Mathematics aims to provide research experience to undergraduate and master's students, and serve as a
-stepping stone for participating students to pursue PhD degrees at top universities. Students will spend
-some of the time learning the necessary background while doing research. Each student will work in a
-team of up to five, under the supervision of renowned experts, on applied or theoretical projects in High
-Dimensional Probability, Statistics, Data Science, Machine Learning, or Combinatorics. The team works
-towards solving a meaningful research problem, and writing a paper.
+ADM is a 6-month program (July - December 2024) to provide undergraduate and master's students with research experience, serving as a stepping stone for students to pursue their Ph.D. at top universities. The program aims to equip students with some of the advanced mathematical knowledge most used in applied research, such as combinatorics, probability, statistics, machine learning, and algorithms. In the next step, the program will direct the most capable students to participate in research projects and obtain meaningful results, suitable for publication in international journals.
 </p>  
 The format of the program is divided into two parts:
 <ol>
