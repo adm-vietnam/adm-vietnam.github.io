@@ -19,7 +19,7 @@ The program is a great opportunity for participating students to meet, exchange 
 The program consists of two phases: boot camp and distance supervision.  
 <ol>
   <li>
-Boot camp: The boot camp will takes place (offline) from July 1 to July 31, in Hanoi. It will include lectures (in Machine Learning, Data Science, Statistical, Probability, and Combinatorics), discussions on exercises and research topics, and a small conference. <b>Participating students will receive housing support and a stipend.</b></li>
+Boot camp: The boot camp will takes place (offline) from July 1 to July 31, in Hanoi. It will include lectures (in machine learning, data science, statistical, probability, and combinatorics), discussions on exercises and research topics, and a small conference. <b>Participating students will receive housing support and a stipend.</b></li>
   <li>
 Distance supervision: From August 1 to December 30, mentors will supervise students remotely, focusing on several specific research topics. After December 30, students can continue to work with mentors, depending on the level of development of the project.</li>
 </ol>
