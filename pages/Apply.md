@@ -10,9 +10,9 @@ toc: false
 # tags: [tags are reserved for posts so this one will not show up]
 ---
 ## Important Dates
-Application period: April 1 to May 15
-Interview: May 23 to June 7
-Admissions decision: by June 15
+- Application period: April 1 to May 15
+- Interview: May 23 to June 7
+- Admissions decision: by June 15
 
 ## Application Material Required
 - Statement of purpose
