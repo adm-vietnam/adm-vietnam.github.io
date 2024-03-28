@@ -12,7 +12,7 @@ The 2024 ADM is a 6-month program (July - December 2024) to provide undergraduat
 </p>
 
 <p>
-The program is a great opportunity for participating students to meet, exchange and learn from experts who will provide not only scientific guidance but also orientation for students in finding PhD scholarships at major universities. The program is developed by the VINIF Foundation and the Big Data Research Institute (VinBigdata), with the direct participation of professors Vu Ha Van (Yale/VINIF/VinBigdata), Nguyen Huu Hoi (Ohio State University), Tran Manh Tuan (University of Science and Technology of China), Nguyen Minh Tan (National University of Singapore), Ho Pham Minh Nhat (UT Austin), and some other scientists.  
+The program is a great opportunity for participating students to meet, exchange and learn from experts who will provide not only scientific guidance but also orientation for students in finding PhD scholarships at major universities. The program is developed by the VINIF Foundation and the Big Data Research Institute (VinBigdata), with the direct participation of professors Vũ Hà Văn (Yale/VINIF/VinBigdata), Nguyễn Hữu Hội (Ohio State University), Trần Mạnh Tuấn (University of Science and Technology of China), Nguyễn Minh Tân (National University of Singapore), Hồ Phạm Minh Nhật (UT Austin), and some other scientists.  
 </p>
 
 <p>
