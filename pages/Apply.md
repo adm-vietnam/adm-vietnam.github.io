@@ -18,7 +18,7 @@ toc: false
 <ol>
   <li>Undergraduates, master's students, students who have graduated from university after April 2020. </li>
   <li>Must be able to spend the full one month in Hanoi.</li>
-  <li>Have studied Linear Algebra, Calculus, Probability, and Combinatorics (e.g. Discrete Mathematics, Graph Theory, Combinatorial Geometry) </li>
+  <li>Have learnt Linear Algebra, Calculus 1, Probability, and Combinatorics (e.g. Discrete Mathematics, Graph Theory, Combinatorial Geometry) in  their undergraduate or postgraduate studies.</li>
 </ol>
 
 
