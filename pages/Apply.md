@@ -10,9 +10,17 @@ toc: false
 # tags: [tags are reserved for posts so this one will not show up]
 ---
 ## Important Dates
-- Application period: April 1 to May 15
+- Application period: April 7 to May 15
 - Interview: May 23 to June 7
 - Admissions decision: by June 15
+
+## Eligibility
+<ol>
+  <li>Undergraduates, master's students, students who have graduated from university after April 2020. </li>
+  <li>Must be able to spend the full one month in Hanoi.</li>
+  <li>Milk</li>
+</ol>
+
 
 ## Application Material Required
 - Statement of purpose
