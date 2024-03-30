@@ -18,7 +18,7 @@ toc: false
 <ol>
   <li>Undergraduates, master's students, students who have completed their undergraduate degree (bachelor's or equivalent) after April 2020. </li>
   <li>Must be able to spend the full one month in Hanoi.</li>
-  <li>Have learnt Linear Algebra, Calculus 1, Probability, and Combinatorics (e.g. Discrete Mathematics, Graph Theory, Combinatorial Geometry) in  their undergraduate or postgraduate studies. The average grade for these courses must &#8805 8.0/10, or 3.2/4. You may be exempt from this requirement if you have </li>
+  <li>Have learnt Linear Algebra, Calculus 1, Probability, and Combinatorics (e.g. Discrete Mathematics, Graph Theory, Combinatorial Geometry) in  their undergraduate or postgraduate studies. The average grade for these courses must &#8805 8.0/10, or 3.2/4. You are exempted from this requirement if you have a research paper, or have won a prize at National Olympiad in Mathematics/Informatics for high school/university students, International Mathematical Olympiad, International Olympiad in Informatics.  </li>
   <li> Cumulative GPA of undergraduate courses must  &#8805 8.0/10, or 3.2/4.</li>
 </ol>
 
