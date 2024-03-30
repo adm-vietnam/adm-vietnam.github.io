@@ -25,9 +25,12 @@ toc: false
 
 
 ## Application Material Required
-- Statement of purpose
-- Curriculum vitae
-- Undergraduate transcript
-- Master's transcript (if applicable)
+- Statement of purpose (in English)
+- Curriculum vitae (including your picture)
+- Official undergraduate transcript
+- Certificate of bachelor degree (if applicable)  
+- Official master's transcript (if applicable)
+- Certificate of master's degree (if applicable)
+- Certificate of English proficiency (if any)
 
 To apply, fill out this form by May 15.
