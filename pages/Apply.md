@@ -30,5 +30,4 @@ toc: false
 - Undergraduate transcript
 - Master's transcript (if applicable)
 
-The documents should be in English, Vietnamese, or both. <br>
 To apply, fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScMvQ1vhoTXmghGyszDjN7YAzwAjr8en6NTjskOlVDDbfPPwQ/viewform?usp=sf_link">this form </a> by May 15.
