@@ -32,9 +32,6 @@ After the program, each student will:
 </ul>
 </p>
 
-<b>Eligibility</b> <br>
-This program is open to undergraduate and master's students at Vietnamese universities. Participants must be able to spend the full one month in Hanoi.
-
 <b>Organizers</b> <br>
 <div class="row cards mt-4">
 {% for member in site.data.Organizers %}
