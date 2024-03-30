@@ -30,4 +30,4 @@ toc: false
 - Undergraduate transcript
 - Master's transcript (if applicable)
 
-To apply, fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScMvQ1vhoTXmghGyszDjN7YAzwAjr8en6NTjskOlVDDbfPPwQ/viewform?usp=sf_link">this form </a> by May 15.
+To apply, fill out this form by May 15.
