@@ -8,7 +8,7 @@ permalink: /
 
 <b>Description</b> <br>
 <p>
-The 2024 ADM is a 6-month program (July - December 2024) to provide undergraduate, master's, and recently graduated students (having graduated April 2021 or later) with research experience, serving as a stepping stone for students to pursue their PhD at top universities. The program aims to equip students with some of the advanced mathematical knowledge most used in applied research, such as combinatorics, probability, statistics, machine learning, and algorithms. In the next step, the program will direct the most capable students to participate in research projects and obtain meaningful results, suitable for publication in international journals.
+The 2024 ADM is a 6-month program (July - December 2024) to provide undergraduate, master's, and recently graduated students (having graduated after April 2020) with research experience, serving as a stepping stone for students to pursue their PhD at top universities. The program aims to equip students with some of the advanced mathematical knowledge most used in applied research, such as combinatorics, probability, statistics, machine learning, and algorithms. In the next step, the program will direct the most capable students to participate in research projects and obtain meaningful results, suitable for publication in international journals.
 </p>
 
 <p>
