@@ -20,7 +20,7 @@ toc: false
   <li>Must be able to spend the full one month in Hanoi.</li>
   <li>Have learnt Linear Algebra, Calculus 1, Probability, and Combinatorics (e.g. Discrete Mathematics, Graph Theory, Combinatorial Geometry) in  their undergraduate or postgraduate studies. The average grade for these courses must be &#8805 8.0/10, or 3.2/4. You are exempted from these requirements if you have a research paper, or have won a prize at National Olympiad in Mathematics/Informatics for high school students, International Mathematical Olympiad, International Olympiad in Informatics.  </li>
   <li> Cumulative GPA of undergraduate courses must be &#8805 8.0/10, or 3.2/4.</li>
-  <li> English prociency requirement: IELTS &#8805 6.0, TOEFL iBT &#8805 70, or TOEIC &#8805 680. We may contact the candidates who pass the initial screening round but does not meet this requirement, and arrange an unofficial TOEIC test for them.  </li>
+  <li> English proficiency requirement: IELTS &#8805 6.0, TOEFL iBT &#8805 70, or TOEIC &#8805 680. We may contact the candidates who pass the initial screening round but does not meet this requirement, and arrange an unofficial TOEIC test for them.  </li>
 </ol>
 
 
