@@ -9,7 +9,7 @@ permalink: /Apply/
 toc: false
 # tags: [tags are reserved for posts so this one will not show up]
 ---
-## Important Dates
+## Important dates
 - Application period: April 7 to May 15
 - Interview: May 23 to June 7
 - Admissions decision: by June 15
@@ -24,7 +24,7 @@ toc: false
 </ol>
 
 
-## Application Material Required
+## Application material required
 - Statement of purpose (in English)
 - Curriculum vitae (including your picture)
 - Official undergraduate transcript
