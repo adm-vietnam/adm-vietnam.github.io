@@ -33,4 +33,4 @@ toc: false
 - Certificate of master's degree (if applicable)
 - Certificate of English proficiency (if any)
 
-The application document can be in English, Vietnamse, or both. To apply, fill out this form by May 15. Note that you can edit your submitted form until May 15.
+The application documents can be in English, Vietnamse, or both. To apply, fill out this form by May 15. Note that you can edit your submitted form until May 15.
