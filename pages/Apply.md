@@ -25,8 +25,8 @@ toc: false
 
 
 ## Application material required
-- Statement of purpose (in English)
-- Curriculum vitae (including your picture)
+- Statement of purpose
+- Curriculum vitae
 - Official undergraduate transcript
 - Certificate of bachelor degree (if applicable)  
 - Official master's transcript (if applicable)
