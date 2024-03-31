@@ -16,7 +16,7 @@ The program is a great opportunity for participating students to meet, exchange 
 </p>
 
 <p>
-The program consists of two phases: boot camp and distance supervision.  
+The program consists of two phases: summer school and distance supervision.  
 <ol>
   <li>
 Summer school: This will takes place from July 1 to July 31 (offline), in Hanoi. It will include lectures (in machine learning, data science, statistical, probability, and combinatorics), discussions on exercises and research topics, and a small conference. Each student will receive 10 million VND.</li>
