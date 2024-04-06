@@ -1,5 +1,5 @@
 ---
-title: The website is MOVED
+title: The website is <a href="https://institute.vinbigdata.org/programs/application-driven-mathematics/">MOVED</a>
 description: 
 permalink: /
 ---
