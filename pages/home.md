@@ -3,7 +3,7 @@ layout: home
 title: 
 description: 
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
-permalink: /
+permalink: /4.html
 ---
 
 <b>Description</b> <br>
